@@ -1,2 +1,11 @@
-﻿// See https://aka.ms/new-console-template for more information
-Console.WriteLine("Hello, World!");
+﻿using MODUL8_1302210097;
+using System.Runtime.CompilerServices;
+
+public class program
+{
+    private static void Main(string[] args)
+    {
+
+    }
+
+}
